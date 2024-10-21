@@ -27,7 +27,6 @@
    <br/>
    Let's check out in gist!
 </p>
-
 ---
 
 > This project is inspired by an awesome pinned-gist project.<br/>
